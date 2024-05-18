@@ -31,7 +31,7 @@ This repository contains all the files for my A/B testing project. You can downl
 
 - [Technical Report .md](https://drive.google.com/file/d/1FgtMyBq9rbK8wymp96b_272h4936RiZv/view?usp=sharing)
 
-- [Technical Report .pdf](https://drive.google.com/file/d/1H1STl3ZgVpzlnwglfmplbdM2fWJaYI1j/view?usp=sharing)
+- [Technical Report .pdf](https://drive.google.com/file/d/1g7pbdIp0ZqNHnHeA7k3hCdGz6EtdYs57/view?usp=sharing)
 
 ## Contents of the Project
 
