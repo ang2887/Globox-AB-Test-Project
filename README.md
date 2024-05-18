@@ -25,7 +25,7 @@ This repository contains all the files for my A/B testing project. You can downl
 
 - [Slides .pptx](https://1drv.ms/p/c/a5a36a4b590607f0/EaJN9H3Y9w5NnNHlJHgQ4fYBMq52BVSybCIGmQ63PR50xg)
 
-- [Slides .pdf](AB_test_presentation.pdf)
+- [Slides .pdf](https://drive.google.com/file/d/12tPGam7VQLiEF8do3G0UlMqXU4REsUfx/view?usp=sharing)
 
 - [Video Presentation](https://1drv.ms/p/c/a5a36a4b590607f0/ER5fPkvnbGdMjjv88cRtfqIBSS3ICdFoIYrjxBEvecNS3Q)
 
