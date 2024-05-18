@@ -51,4 +51,5 @@ This repository contains all the files for my A/B testing project. You can downl
 
 To view the project offline, download the [zip file](./GloBox_AB_test_Project.zip) and extract it on your local machine.
 
+
 To view the online components of the project, please ensure you have an internet connection and click the links above.
