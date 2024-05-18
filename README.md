@@ -16,7 +16,8 @@ This repository contains all the files for my A/B testing project. You can downl
 
 ## Project Links
 
-- [GloBox.csv](https://1drv.ms/p/c/a5a36a4b590607f0/EaJN9H3Y9w5NnNHlJHgQ4fYBMq52BVSybCIGmQ63PR50xg)
+- [GloBox.csv](https://drive.google.com/file/d/1UsHeCBkZksDYIP7HcyEWenXEamPs4n2S/view?usp=sharing![image](https://github.com/ang2887/Globox-AB-Test-Project/assets/166133394/d80753e7-26f2-44b3-ac34-1943757f1e64)
+)
 
 - [Colab Python Notebook](https://drive.google.com/drive/folders/1rCWirz5UkWQNW2AuRAFYctGEG2J2pVpQ?usp=drive_link)
 
