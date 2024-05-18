@@ -49,7 +49,8 @@ This repository contains all the files for my A/B testing project. You can downl
 
 ## How to Use
 
-To view the project offline, download the [zip file](GloBox_AB_test_Project.zip) and extract it on your local machine.
+To view the project offline, download the [zip file]( https://drive.google.com/file/d/1tph-hKNutaBIT8vstxBcmQI8mqdFyfDD/view?usp=sharing![image](https://github.com/ang2887/Globox-AB-Test-Project/assets/166133394/16dd2d61-ecc9-4f54-b6ec-960082c972fd)
+) and extract it on your local machine.
 
 
 To view the online components of the project, please ensure you have an internet connection and click the links above.
